@@ -217,5 +217,3 @@ print(first_plus_last([-10, 2, 3, -4]))'''
 
 
 
-
-
